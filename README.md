@@ -28,8 +28,8 @@ Utilizo este perfil para reunir o meu percurso académico, os projetos desenvolv
 
 ## Projetos desenvolvidos em grupo
 
-- [Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora) — projeto académico desenvolvido em equipa.
-- [Basket Hub](https://github.com/bmgoliveira-UA/basket-hub) — projeto de grupo desenvolvido no âmbito do curso. O repositório da entrega de grupo encontra-se na conta de Bruno Oliveira.
+- [Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora) - projeto académico desenvolvido em equipa.
+- [Basket Hub](https://github.com/bmgoliveira-UA/basket-hub) - projeto de grupo desenvolvido no âmbito do curso. O repositório da entrega de grupo encontra-se na conta de Bruno Oliveira.
 
 Nos projetos de grupo, trabalhei em conjunto com os restantes elementos, partilhando tarefas de desenvolvimento e integração.
 
