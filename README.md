@@ -1,42 +1,48 @@
-# Olá! Sou o Leonardo Alves
+# Leonardo Alves — Perfil académico
 
-Estudante de **Desenvolvimento de Software** na **Escola Superior Aveiro Norte, Universidade de Aveiro**.
+Estudante do **CTeSP em Desenvolvimento de Software** na **Escola Superior Aveiro Norte (ESAN), Universidade de Aveiro**, no período letivo de 2025–2027.
 
-Utilizo este perfil para reunir o meu percurso académico, os projetos desenvolvidos durante o curso e experiências de trabalho em equipa.
+Utilizo este perfil para reunir trabalhos curriculares, projetos desenvolvidos em contexto académico e experiências de colaboração. Os projetos pessoais e o portefólio profissional estão no [perfil GitHub 16alves02](https://github.com/16alves02).
 
 ## Formação
 
 - **CTeSP em Desenvolvimento de Software**
-- Escola Superior Aveiro Norte | Universidade de Aveiro
-- Atualmente a frequentar o 2.º ano
-
-## Áreas de desenvolvimento
-
-- Desenvolvimento Web: HTML, CSS, JavaScript, PHP
-- Bases de dados: MySQL, MariaDB
-- Desenvolvimento Android: Kotlin
-- Desenvolvimento de interfaces: React, TypeScript
-- Programação: C
-- Ferramentas: Git, GitHub, Android Studio, Visual Studio Code
+- Escola Superior Aveiro Norte — Universidade de Aveiro
+- 2025–2027 · Em curso
 
 ## Projetos académicos
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [SaborGest](https://github.com/16alves02/SaborGest) | Sistema de gestão para um estabelecimento de restauração, com aplicação Android, gestão web, assiduidade e controlo de stock. | PHP, MySQL, Kotlin |
-| [HOOP](https://github.com/16alves02/HOOP) | Aplicação web desenvolvida no contexto académico. | React, TypeScript, Vite |
+| Projeto | Âmbito | Tecnologias |
+| --- | --- | --- |
+| [SaborGest](https://github.com/16alves02/SaborGest) | Projeto académico individual: sistema de gestão para pequenos negócios de restauração, com painel Web, API, base de dados e aplicação Android. | PHP, PDO, MySQL/MariaDB, Kotlin, Android, Retrofit |
+| [HOOP](https://github.com/16alves02/hoop) | Loja de basquetebol fictícia desenvolvida para fins académicos. Inclui catálogo, pesquisa, filtros, carrinho e checkout simulado; não processa pagamentos reais. | React, TypeScript, Vite |
+| [Basket Hub](https://github.com/bmgoliveira-UA/basket-hub) | Projeto académico de grupo para gestão de equipas, jogadores, jogos, eventos e estatísticas de basquetebol. O repositório indicado é o da entrega do grupo. | Kotlin, Ktor, Thymeleaf, Exposed |
+| [Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora) | Aplicação de linha de comandos para gestão de um catálogo musical, com operações CRUD, pesquisa, relatórios, reprodução de áudio e histórico de alterações. | Python, Pygame, Whoosh, pandas, CSV |
 
-## Projetos desenvolvidos em grupo
+## Colaboração e autoria
 
-- [Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora) - projeto académico desenvolvido em equipa.
-- [Basket Hub](https://github.com/bmgoliveira-UA/basket-hub) - projeto de grupo desenvolvido no âmbito do curso. O repositório da entrega de grupo encontra-se na conta de Bruno Oliveira.
+- **SaborGest:** projeto académico individual, desenvolvido no âmbito do CTeSP.
+- **HOOP:** projeto académico desenvolvido individualmente.
+- **Basket Hub:** projeto de grupo. O repositório de referência é mantido na conta de Bruno Oliveira / organização de grupo; não confundir com versões ou cópias separadas.
+- **Tocadiscos Editora:** projeto de quatro elementos. Leonardo Alves e Bruno Oliveira tiveram a participação mais expressiva no desenvolvimento; Gabriela Tavares e Vinicius Toniato também integraram a equipa e contribuíram para o trabalho.
 
-Nos projetos de grupo, trabalhei em conjunto com os restantes elementos, partilhando tarefas de desenvolvimento e integração.
+As descrições identificam o âmbito dos projetos e não significam que todas as funcionalidades estejam preparadas para utilização em produção.
+
+## Áreas técnicas trabalhadas
+
+- **Programação:** Kotlin, PHP, Python, JavaScript, TypeScript e C.
+- **Desenvolvimento Web:** HTML, CSS, React, Vite e Ktor.
+- **Backend e APIs:** PHP, PDO, REST APIs e Ktor.
+- **Bases de dados:** MySQL, MariaDB, H2 e SQL.
+- **Android:** Kotlin, Android Studio, Retrofit e View Binding.
+- **Ferramentas:** Git, GitHub, Gradle e Visual Studio Code.
+
+A experiência prática varia entre tecnologias e projetos; a lista representa ferramentas utilizadas em contexto académico e de desenvolvimento.
 
 ## Objetivo
 
-Continuar a desenvolver competências em engenharia de software, aprofundar conhecimentos de desenvolvimento web e mobile e aplicar boas práticas de programação em projetos práticos.
+Consolidar conhecimentos de desenvolvimento de software através de projetos práticos, melhorar a qualidade do código e aprofundar competências de trabalho em equipa, integração e validação de aplicações.
 
 ---
 
-Este perfil é dedicado ao meu percurso académico. Para projetos pessoais e trabalho independente, consulta o meu [perfil pessoal](https://github.com/16alves02).
+Para projetos pessoais, trabalho independente e informação profissional, consulta o [perfil pessoal](https://github.com/16alves02) e o [portefólio](https://16alves02.netlify.app/).
