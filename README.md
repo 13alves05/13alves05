@@ -45,4 +45,4 @@ Consolidar conhecimentos de desenvolvimento de software através de projetos pr�
 
 ---
 
-Para projetos pessoais, trabalho independente e informação profissional, consulta o [perfil pessoal](https://github.com/16alves02) e o [portefólio](https://16alves02.pages.dev/).
+Para projetos pessoais, trabalho independente e informação profissional, consulta o [perfil pessoal](https://github.com/16alves02), o [portefólio](https://16alves02.pages.dev/) e o [LinkedIn](https://www.linkedin.com/in/16alves02/).
