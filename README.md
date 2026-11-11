@@ -1,8 +1,16 @@
-# Leonardo Alves, perfil académico
+# Leonardo Alves | Perfil académico
 
 Estudante do **CTeSP em Desenvolvimento de Software** na **Escola Superior Aveiro Norte (ESAN), Universidade de Aveiro**, no período letivo de 2025-2027.
 
 Utilizo este perfil para reunir trabalhos curriculares, projetos desenvolvidos em contexto académico e experiências de colaboração. Os projetos pessoais e o portefólio profissional estão no [perfil GitHub 16alves02](https://github.com/16alves02).
+
+## Contactos
+
+- [Portefólio](https://16alves02.pages.dev/)
+- [GitHub pessoal](https://github.com/16alves02)
+- [LinkedIn](https://www.linkedin.com/in/16alves02/)
+- [Instagram](https://www.instagram.com/16alves02/)
+- [Email](mailto:16alves02@gmail.com)
 
 ## Formação
 
