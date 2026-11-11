@@ -1,4 +1,4 @@
-# Leonardo Alves ,  Perfil académico
+# Leonardo Alves, perfil académico
 
 Estudante do **CTeSP em Desenvolvimento de Software** na **Escola Superior Aveiro Norte (ESAN), Universidade de Aveiro**, no período letivo de 2025-2027.
 
@@ -7,7 +7,7 @@ Utilizo este perfil para reunir trabalhos curriculares, projetos desenvolvidos e
 ## Formação
 
 - **CTeSP em Desenvolvimento de Software**
-- Escola Superior Aveiro Norte ,  Universidade de Aveiro
+- Escola Superior Aveiro Norte, Universidade de Aveiro
 - 2025-2027 · Em curso
 
 ## Projetos académicos
