@@ -22,7 +22,7 @@ Utilizo este perfil para reunir trabalhos curriculares, projetos desenvolvidos e
 
 | Projeto | Âmbito | Tecnologias |
 | --- | --- | --- |
-| [SaborGest](https://github.com/16alves02/SaborGest) | Projeto académico individual: sistema de gestão para pequenos negócios de restauração, com painel Web, API, base de dados e aplicação Android. | PHP, PDO, MySQL/MariaDB, Kotlin, Android, Retrofit |
+| SaborGest | Projeto académico individual: sistema de gestão para pequenos negócios de restauração, com painel Web, API, base de dados e aplicação Android. | PHP, PDO, MySQL/MariaDB, Kotlin, Android, Retrofit |
 | [HOOP](https://github.com/16alves02/hoop) | Loja de basquetebol fictícia desenvolvida para fins académicos. Inclui catálogo, pesquisa, filtros, carrinho e checkout simulado; não processa pagamentos reais. | React, TypeScript, Vite |
 | [Basket Hub](https://github.com/bmgoliveira-UA/basket-hub) | Projeto académico de grupo para gestão de equipas, jogadores, jogos, eventos e estatísticas de basquetebol. O repositório indicado é o da entrega do grupo. | Kotlin, Ktor, Thymeleaf, Exposed |
 | [Tocadiscos Editora](https://github.com/13alves05/tocadiscos-editora) | Aplicação de linha de comandos para gestão de um catálogo musical, com operações CRUD, pesquisa, relatórios, reprodução de áudio e histórico de alterações. | Python, Pygame, Whoosh, pandas, CSV |
